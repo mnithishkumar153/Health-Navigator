@@ -36,13 +36,29 @@ We are using the Azure technologies with HTML,CSS,JAVASCRIPT to complete the sam
 ![home9](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/28824c20-1653-4cdd-9f2e-a71d1f2559db)
 
 ## About
+![about1](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/80910901-6af1-4dd0-8a08-b764210bce98)
+![about2](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/46860f18-98e9-41ea-aee9-edcd3385c0af)
+![about3](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/0a9b1b76-afda-42e5-ac49-00d2dcc0f8f8)
+![about4](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/03b04240-dc07-411d-a203-c6237d364c97)
+![about5](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/1f4fe67b-8a01-43e7-b9a1-be5bcfefa98b)
+![about6](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/00010aaf-763b-4189-a04e-04e107014e76)
+![about7](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/3b56963b-f5df-4d0e-bf37-9645e9da6d75)
 
 
 ## Department
+![dep1](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/cc3fc132-6b42-4d91-897e-2714d815bf6f)
+![dep2](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/fe7641f3-e8fe-452e-8fe7-d45656dda811)
+![dep3](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/8ea35e90-db87-495a-8044-bd3f4f14699f)
+![dep4](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/1bbb16b9-f224-48ad-a6c6-3ad44ec825d8)
 
 ## Contact
-
+![contact1](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/81081a29-9ac2-4d81-99ae-260feaddf1a0)
+![contact2](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/d1b3ce63-5440-4a8a-8df9-2183424e54ef)
+![contact3](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/1c5e5579-aee0-463f-8190-f9c481236db9)
 ## Azure Bot Services
+![azure1](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/f105718a-c245-403e-8d88-cb1d81ee3e89)
+![azure2](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/b74eacfe-5283-44a3-99cd-baf40eefc300)
+![azure3](https://github.com/mnithishkumar153/Health-Navigator/assets/132545505/96d1e336-995c-44f4-ab2c-1747014a2792)
 
 ## Tech Stack 
 
