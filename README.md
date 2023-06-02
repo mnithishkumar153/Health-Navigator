@@ -1,6 +1,6 @@
 # Health-Navigator
 Azure Microsoft Internship Project
-- Project Link:
+- Project Link: https://mango-pond-03497c100.3.azurestaticapps.net/
 - Demo Video Link: 
 
 ## Features and Functionalities:-
