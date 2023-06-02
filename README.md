@@ -4,11 +4,11 @@ Azure Microsoft Internship Project
 - Demo Video Link: https://youtu.be/Zm8qByfDBJE
 
 ## Features and Functionalities:-
-- Interactive and responsive UI.
+- Interactive and responsive with the client and hospitals 
 - Have an aesthetically pleasing visual design and architecture.
-- User can know about health information through this website.
-- Has many graphical and visual innovative effects.
-- Included the feedback Survey form to increase the scope of improvement.
+- User can know about health information through this website and easy to book an appiontment.
+- Has the locations of hospitals.
+- Included the Azure health bot and static webapps.
 - Has collection of many web pages including Home, About, Department,Contact and Azure etc.
 ## Problem Statement
 The Health Navigator  wants to build a sample Front End prototype website for scheduling an appointment .It will provide an interface between the patients and hospitals 
