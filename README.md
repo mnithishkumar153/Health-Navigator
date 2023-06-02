@@ -1,7 +1,7 @@
 # Health-Navigator
 Azure Microsoft Internship Project
 - Project Link: https://mango-pond-03497c100.3.azurestaticapps.net
-- Demo Video Link: 123
+- Demo Video Link: https://youtu.be/Zm8qByfDBJE
 
 ## Features and Functionalities:-
 - Interactive and responsive UI.
@@ -12,9 +12,9 @@ Azure Microsoft Internship Project
 - Has collection of many web pages including Home, About, Department,Contact and Azure etc.
 ## Problem Statement
 The Health Navigator  wants to build a sample Front End prototype website for scheduling an appointment .It will provide an interface between the patients and hospitals 
-Patients often encounter extended waiting times when trying to secure appointments. Extended waiting times can result in delayed diagnosis and treatment. Many healthcare facilities have complex appointment processes that involve multiple steps, such as calling different departments, providing detailed information, or  filling out extensive paperwork. By using the project Health Navigator e-commerce website  patients can view the availability of healthcare providers in real-time and schedule appointments at their own convenience in online and it will avoid the Complex Appointment Processes and Long Waiting Times.
+Patients often encounter extended waiting times when trying to secure appointments. Extended waiting times can result in delayed diagnosis and treatment. Many healthcare facilities have complex appointment processes that involve multiple steps, such as calling different departments, providing detailed information, or  filling out extensive paperwork. By using the project Health Navigator website  patients can view the availability of healthcare providers in real-time and schedule appointments at their own convenience in online and it will avoid the Complex Appointment Processes and Long Waiting Times.
 ## Problem Description
-The main core of this project is to build a sample Front End prototype e-commerce website with Azure Bot Services for scheduling an appointment with the help of HTML,CSS,JAVASCRIPT . The project Health Navigator is a e-commerce website that  will provide a interface between the patients and hospitals . 
+The main core of this project is to build a sample Front End prototype  website with Azure Bot Services for scheduling an appointment with the help of HTML,CSS,JAVASCRIPT . The project Health Navigator is a  website that  will provide a interface between the patients and hospitals . 
 Many healthcare facilities have complex appointment processes that involve multiple steps, such as calling different departments, providing detailed information, or filling out extensive paperwork. The Complex Appointment Processes and Long Waiting Times these are the main two challenges faced by the patients. 
 Our project Health-Navigator will provide a interface between the patients and hospitals by using this Health-Navigator project patients can schedule  an appointment by their  own convenience without wasting the time and overcoming the complex paperwork 
 The  project Health Navigator is capable of providing the eco friendly services that will helps in  preventing the waste of time and helps the patients convenience .The  Complex Appointment Processes and Long Waiting Times are solved by an online appointment system, patients can save valuable time by avoiding long waiting periods and multiple phone calls 
